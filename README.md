@@ -4,7 +4,7 @@
 
 ---
 
-## 🚨 Problem Statement
+## 🚨 Problem Statemen
 
 Governments and organizations often struggle to understand crowd sentiment in real-time during protests, public events, or large gatherings. This lack of insight can delay response times and escalate conflicts.
 
